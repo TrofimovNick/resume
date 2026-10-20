@@ -1,2 +1,2 @@
 # resume
-ny resume
+my resume
